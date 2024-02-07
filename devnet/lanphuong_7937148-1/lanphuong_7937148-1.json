@@ -1,0 +1,28 @@
+{
+  "chainId": "lanphuong_7937148-1",
+  "chainName": "lanphuong_7937148-1",
+  "rpc": "http://37.60.239.150:26657",
+  "rest": "http://37.60.239.150:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BTC",
+      "baseDenom": "uBTC",
+      "decimals": 18,
+      "logo": "/logos/lanphuong_7937148-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/lanphuong_7937148-1.png",
+  "ibc": {
+    "hubChannel": "channel-9381",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x791c7c",
+    "rpc": "http://37.60.239.150:8545"
+  }
